@@ -140,6 +140,9 @@ public class BubbleSortExample {
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+Jadi,salah satu produk IDE adalah android studio :
+![Screenshot (23)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/fc8249ad-d34b-461b-8bda-ed772afb6b89)
+
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasik!
 an Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
