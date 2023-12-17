@@ -144,8 +144,11 @@ Jadi,salah satu produk IDE adalah android studio :
 ![Screenshot (23)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/fc8249ad-d34b-461b-8bda-ed772afb6b89)
 
 
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasik!
-an Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+Jadi, saya telah mendaftar dan mengeksplorasi Penggunaan HackerRank . HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan
+
+![image](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7344ee7-12f7-4ab7-bbc4-53270b6d01aa)
+
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
