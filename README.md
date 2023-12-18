@@ -87,9 +87,9 @@ help: Menampilkan bantuan untuk perintah tertentu.
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-![image](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/0305d482-3b3c-4927-997c-61832920d771)
+![Screenshot (29)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/1195b938-12fd-4f68-b9a5-f100ef43f8fe)
 
-![Screenshot (21)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/8f102956-2281-4276-8d4d-9e77907dcdff)
+![Screenshot (30)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/980a70f7-f01e-4c05-b958-b0c5d56a16c6)
 
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
