@@ -176,11 +176,12 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![Screenshot (34)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7f63b7b-f849-4fb6-9eac-ca5b2fc4cc97)
+![Screenshot (35)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7b5f26a-d3f6-4c57-9431-f7b354c1a2fd)
+![Screenshot (33)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a22a287c-0e21-44f7-a3a4-2b3d6af17db3)
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+
+
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
