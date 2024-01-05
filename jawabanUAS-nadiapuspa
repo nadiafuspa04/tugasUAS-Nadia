@@ -1,6 +1,7 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+
 Computational Thinking (Pemikiran Komputasional) adalah suatu kemampuan atau pola pikir yang memungkinkan seseorang untuk memecahkan masalah secara efektif dengan menggunakan konsep dan metode yang umumnya terkait dengan komputasi. Ini melibatkan sejumlah keterampilan kognitif dan konseptual yang dapat diterapkan dalam pemecahan masalah di berbagai konteks. Ada empat elemen kunci dalam computational thinking, yaitu:
 Pemecahan Masalah:
 
@@ -27,27 +28,28 @@ Belajar dari pengalaman dan mencari cara untuk menjadi lebih baik dalam memecahk
 Dengan melibatkan diri dalam cara berpikir ini, kita dapat menjadi lebih baik dalam menyelesaikan masalah dan membuat keputusan yang lebih baik dalam kehidupan sehari-hari.
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-Komputer Buat Sendiri (PC) 
+
+**Komputer Buat Sendiri (PC)**
 
 Ini tuh komputer yang buat kita sendiri, bisa desktop, laptop, atau tablet. Biasanya buat main internet, ngetik, atau kerjaan ringan aja.
 
-Komputer Gede Buat Nyimpen Data (Server)
+**Komputer Gede Buat Nyimpen Data (Server)**
 
 Ini kayak penyimpanan gede buat komputer-komputer lain. Misalnya, kaya gudang besar yang nyimpan barang banyak buat toko.
 
-Komputer Canggih Banget (Superkomputer)
+** Komputer Canggih Banget (Superkomputer) **
 
 ini komputer yang paling hebat. Dipake buat hitung angka yang banyak banget, misalnya buat ramalan cuaca atau penelitian rumit.
 
-Komputer Bisnis (Mainframe)
+** Komputer Bisnis (Mainframe) **
 
 Ini komputer buat urusin banyak data bisnis. Kayak bendahara besar yang catat semua transaksi.
 
-Komputer di Alat Listrik (Mikrokontroler)
+** Komputer di Alat Listrik (Mikrokontroler) **
 
 Ini komputer kecil yang ada di dalam alat-alat elektronik kita. Contohnya di rice cooker atau mobil.
 
-Sistem di Dalam Alat (Embedded Systems)
+** Sistem di Dalam Alat (Embedded Systems) **
 
 ini komputer yang diselipin di alat atau mobil buat bantuin kontrol beberapa fungsi khusus.
 
@@ -155,13 +157,9 @@ https://github.com/nadiafuspa04/tugasaplikasi/blob/main/uts.md
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
@@ -267,6 +265,9 @@ www.linkedin.com/in/nadia-fuspa-dewi
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+"Clean Code: A Handbook of Agile Software Craftsmanship" oleh Robert C. Martin:"
+Fokus pada praktik pengkodean yang baik dan prinsip-prinsip desain perangkat lunak yang dapat membantu pengembang menulis kode yang mudah dimengerti, dipelihara, dan diperbaiki. Buku ini membahas konsep-konsep seperti SOLID principles untuk membantu pembaca meningkatkan kualitas kode mereka.
+
 
 
 
