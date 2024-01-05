@@ -167,8 +167,34 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+Jadi Dbeaver adalah aplikasi manajemen database berbasis GUI. Adapun langkah untuk query database menggunakan dbeaver yaitu :
+
+1.Instal DBeaver:
+Unduh dan instal DBeaver dari situs web resminya: DBeaver.io.
+Ikuti petunjuk instalasi yang sesuai dengan sistem operasi.
+
+2.Buka Koneksi ke Basis Data:
+Buka DBeaver dan buat koneksi ke basis data yang ingin ditanyakan. Klik pada ikon "New Database Connection" di toolbar atau pilih menu "Database" > "New Database Connection".
+Pilih jenis basis data yang sesuai (MySQL, PostgreSQL, dll.) dan masukkan detail koneksi seperti nama host, port, nama basis data, nama pengguna, dan kata sandi.
+Terhubung ke Basis Data:
+Setelah konfigurasi koneksi selesai, klik "Finish" atau "Test Connection" untuk memastikan bahwa koneksi berhasil.
+
+3.Buka SQL Editor:
+Setelah terhubung ke basis data, pilih basis data yang ingin ditanyakan di panel Navigator.
+Klik kanan pada basis data tersebut dan pilih "SQL Editor" atau "New SQL Editor" untuk membuka jendela editor SQL.
+
+4.Tulis Kueri SQL:
+Menulis kueri SQL di dalam jendela editor.
+
+5.Jalankan Kueri:
+Setelah menulis kueri, kueri tersebut dapat dijalankan dengan mengklik tombol "Run SQL" atau menggunakan pintasan keyboard (biasanya F5).
+
+6.Lihat Hasil Kueri:
+Hasil kueri akan ditampilkan di bagian bawah jendela editor SQL. Hasil kueri dapat dilihat, disortir, dan menyaring data jika diperlukan.
+
+7.Simpan Kueri:
+Jika ingin menyimpan kueri untuk digunakan kembali, kueri dapat disimpan sebagai file atau disimpan dalam proyek DBeaver.
+
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
