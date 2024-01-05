@@ -29,27 +29,27 @@ Dengan melibatkan diri dalam cara berpikir ini, kita dapat menjadi lebih baik da
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
-**Komputer Buat Sendiri (PC)**
+*Komputer Buat Sendiri (PC)*
 
 Ini tuh komputer yang buat kita sendiri, bisa desktop, laptop, atau tablet. Biasanya buat main internet, ngetik, atau kerjaan ringan aja.
 
-**Komputer Gede Buat Nyimpen Data (Server)**
+*Komputer Gede Buat Nyimpen Data (Server)*
 
 Ini kayak penyimpanan gede buat komputer-komputer lain. Misalnya, kaya gudang besar yang nyimpan barang banyak buat toko.
 
-** Komputer Canggih Banget (Superkomputer) **
+* Komputer Canggih Banget (Superkomputer) *
 
 ini komputer yang paling hebat. Dipake buat hitung angka yang banyak banget, misalnya buat ramalan cuaca atau penelitian rumit.
 
-** Komputer Bisnis (Mainframe) **
+* Komputer Bisnis (Mainframe) *
 
 Ini komputer buat urusin banyak data bisnis. Kayak bendahara besar yang catat semua transaksi.
 
-** Komputer di Alat Listrik (Mikrokontroler) **
+* Komputer di Alat Listrik (Mikrokontroler) *
 
 Ini komputer kecil yang ada di dalam alat-alat elektronik kita. Contohnya di rice cooker atau mobil.
 
-** Sistem di Dalam Alat (Embedded Systems) **
+* Sistem di Dalam Alat (Embedded Systems) *
 
 ini komputer yang diselipin di alat atau mobil buat bantuin kontrol beberapa fungsi khusus.
 
@@ -60,11 +60,13 @@ Ini komputer super canggih yang pake fisika aneh buat hitung cepet. Tapi masih d
 Intinya, ada banyak jenis komputer dengan tugas masing-masing, dari yang buat ngetik sampai yang bisa nebak cuaca! Semuanya punya peran penting dalam dunia teknologi.
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
 https://colab.research.google.com/drive/1bCDKdmElSrEGZLWGpH-IZSx2NsdTxp1d?usp=sharing
 
 ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
+
 
 Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (CMD) pada sistem operasi Windows:
 
@@ -84,17 +86,18 @@ help: Menampilkan bantuan untuk perintah tertentu.
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
+
 ![AlgoritmaMasakMie drawio](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/edc4acea-7594-46bf-954f-3fc26508c4b3)
 
-
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+
 
 ![Screenshot (29)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/1195b938-12fd-4f68-b9a5-f100ef43f8fe)
 
 ![Screenshot (30)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/980a70f7-f01e-4c05-b958-b0c5d56a16c6)
 
-
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
 public class BubbleSortExample {
 
     public static void main(String[] args) {
@@ -145,21 +148,27 @@ public class BubbleSortExample {
 Jadi,salah satu produk IDE adalah android studio :
 ![Screenshot (23)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/fc8249ad-d34b-461b-8bda-ed772afb6b89)
 
-
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+
 Jadi, saya telah mendaftar dan mengeksplorasi Penggunaan HackerRank . HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan
 
 ![image](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7344ee7-12f7-4ab7-bbc4-53270b6d01aa)
 
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
 https://github.com/nadiafuspa04/tugasaplikasi/blob/main/uts.md
+
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
+Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+Referensi installer [Dbeaver](https://dbeaver.io/download/)
+Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
@@ -175,12 +184,11 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-![Screenshot (34)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7f63b7b-f849-4fb6-9eac-ca5b2fc4cc97)
-![Screenshot (35)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7b5f26a-d3f6-4c57-9431-f7b354c1a2fd)
-![Screenshot (33)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a22a287c-0e21-44f7-a3a4-2b3d6af17db3)
 
-
-
+Referensi tutorial 
+- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
+- Styling halaman web : [CSS](https://www.w3schools.com/css/)
+- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -254,21 +262,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-Jadi,Platform LinkedIn ini utntuk mencari lowongan pekerjaan.
-
-www.linkedin.com/in/nadia-fuspa-dewi
-
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
-
-
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-"Clean Code: A Handbook of Agile Software Craftsmanship" oleh Robert C. Martin:"
-Fokus pada praktik pengkodean yang baik dan prinsip-prinsip desain perangkat lunak yang dapat membantu pengembang menulis kode yang mudah dimengerti, dipelihara, dan diperbaiki. Buku ini membahas konsep-konsep seperti SOLID principles untuk membantu pembaca meningkatkan kualitas kode mereka.
-
-
-
-
-
