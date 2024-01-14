@@ -1,6 +1,6 @@
 ## Hello Informatics !
 
-## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
 Computational Thinking (Pemikiran Komputasional) adalah suatu kemampuan atau pola pikir yang memungkinkan seseorang untuk memecahkan masalah secara efektif dengan menggunakan konsep dan metode yang umumnya terkait dengan komputasi. Ini melibatkan sejumlah keterampilan kognitif dan konseptual yang dapat diterapkan dalam pemecahan masalah di berbagai konteks. Ada empat elemen kunci dalam computational thinking, yaitu:
 Pemecahan Masalah:
@@ -27,7 +27,7 @@ Berlatih dengan masalah-masalah kecil dan nyata.
 Belajar dari pengalaman dan mencari cara untuk menjadi lebih baik dalam memecahkan masalah.
 Dengan melibatkan diri dalam cara berpikir ini, kita dapat menjadi lebih baik dalam menyelesaikan masalah dan membuat keputusan yang lebih baik dalam kehidupan sehari-hari.
 
-## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 *Komputer Buat Sendiri (PC)*
 
@@ -59,13 +59,13 @@ Ini komputer super canggih yang pake fisika aneh buat hitung cepet. Tapi masih d
 
 Intinya, ada banyak jenis komputer dengan tugas masing-masing, dari yang buat ngetik sampai yang bisa nebak cuaca! Semuanya punya peran penting dalam dunia teknologi.
 
-## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 https://colab.research.google.com/drive/1bCDKdmElSrEGZLWGpH-IZSx2NsdTxp1d?usp=sharing
 
-## Mencoba Console Sistem Operasi
+## 4. Mencoba Console Sistem Operasi
 
-### Windows CMD [v] ⭐⭐⭐⭐
+### 5. Windows CMD [v] ⭐⭐⭐⭐
 
 
 Berikut adalah beberapa perintah dasar yang sering digunakan di Command Prompt (CMD) pada sistem operasi Windows:
@@ -82,21 +82,21 @@ echo: Menampilkan teks ke layar atau menulis teks ke file.
 cls: Membersihkan layar.
 help: Menampilkan bantuan untuk perintah tertentu.
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+### 6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
-## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+## 7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 
 ![AlgoritmaMasakMie drawio](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/edc4acea-7594-46bf-954f-3fc26508c4b3)
 
-## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
+## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 
 ![Screenshot (29)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/1195b938-12fd-4f68-b9a5-f100ef43f8fe)
 
 ![Screenshot (30)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/980a70f7-f01e-4c05-b958-b0c5d56a16c6)
 
-## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 public class BubbleSortExample {
 
@@ -143,29 +143,29 @@ public class BubbleSortExample {
 }
 
 
-## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+## 10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 Jadi,salah satu produk IDE adalah android studio :
 ![Screenshot (23)](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/fc8249ad-d34b-461b-8bda-ed772afb6b89)
 
-## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+## 11. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 Jadi, saya telah mendaftar dan mengeksplorasi Penggunaan HackerRank . HackerRank adalah perusahaan teknologi yang berfokus pada tantangan pemrograman kompetitif untuk konsumen dan bisnis. Pengembang bersaing dengan menulis program sesuai dengan spesifikasi yang diberikan
 
 ![image](https://github.com/nadiafuspa04/tugasUAS-Nadia/assets/148792940/a7344ee7-12f7-4ab7-bbc4-53270b6d01aa)
 
 
-## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+## 12. Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 https://github.com/nadiafuspa04/tugasaplikasi/blob/main/uts.md
 
 
-## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
+## 13. Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 
-## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
+## 14. Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
 Jadi Dbeaver adalah aplikasi manajemen database berbasis GUI. Adapun langkah untuk query database menggunakan dbeaver yaitu :
 
@@ -196,69 +196,69 @@ Hasil kueri akan ditampilkan di bagian bawah jendela editor SQL. Hasil kueri dap
 Jika ingin menyimpan kueri untuk digunakan kembali, kueri dapat disimpan sebagai file atau disimpan dalam proyek DBeaver.
 
 
-## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+## 15. Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
 
-## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
+## 16. Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
-## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
+## 17. Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
-## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+## 18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
 - Styling halaman web : [CSS](https://www.w3schools.com/css/)
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
-## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
 
-## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+## 20. Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+## 21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
 
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+## 22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+## 23. Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
-## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+## 24. Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
-## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+## 25. Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
-## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+## 26. Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
-## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+## 27. Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
-## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
+## 28. Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
-## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+## 29. Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
-## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+## 30. Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
-## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+## 31. Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+## 32. Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+## 33. Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
-## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+## 34. Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
-## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+## 35. Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
-## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+## 36. Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
-## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+## 37. Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 Kaggle adalah platform data science yang menawarkan berbagai sumber daya, proyek, dan kompetisi. Berikut adalah beberapa fitur dan manfaat utama Kaggle:
 Kompetisi Data Science,Dataset Publik,Kernels,Kursus dan Materi Pembelajaran.
 ada beberapa manfaat kaggle yaitu:
@@ -266,41 +266,41 @@ kita bisa mengembangkan keterampilan yang kita miliki,bisa berkolaborasi dan jar
 Secara keseluruhan, Kaggle menawarkan pengalaman yang seru dan berguna untuk belajar, berkolaborasi, dan bersaing dalam dunia data science. Ini membantu pengguna dalam mengembangkan keterampilan, berkontribusi pada proyek-proyek dunia nyata, dan membangun jaringan profesional dalam komunitas data science.
 file:///C:/Users/user/Pictures/Screenshots/Screenshot%20(54).png
 
-## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+## 38. Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+## 39. Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+ 
+## 40. Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
-## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
-## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
-## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
-## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
-
-## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+## 44. Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 profesi yang diminati dalam bidang informatika ini saya minat di software developer
 
-## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+## 45. Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 topik yang saya minati di roadmap.sh yaitu Backend Developer
 file:///C:/Users/user/Pictures/Screenshots/Screenshot%20(53).png
+ 
+## 550. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
-## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
-## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+## 52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
-## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
-
-## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 "The Art of Computer Programming" oleh Donald E. Knuth
 Buku ini adalah karya monumental yang terdiri dari beberapa volume. Ditulis oleh salah satu ahli komputer paling terkemuka, buku ini membahas berbagai topik dalam ilmu komputer, termasuk algoritma, struktur data, dan bahasa pemrograman. Setiap volume dirancang untuk memberikan pemahaman mendalam tentang prinsip-prinsip inti di balik desain algoritma.
